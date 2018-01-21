@@ -1,6 +1,6 @@
 # Chile-SIC-Powerplants
 
-The goal of this repo is to map all of the thermal powerplants in the SIC grid region of Chile to their fuel type.
+The goal of this repo was to map all of the thermal powerplants in the SIC grid region of Chile to their fuel type.
 
 Allowed fuel types - coal, gas, oil, biomass, unknown.
 
